@@ -10,6 +10,8 @@ class BadGuy {
   }
 }
 
+///See THIS?!it 
+
 console.log(BadGuy)
 
 // In video games, we often fight the same enemy over and over again.

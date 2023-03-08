@@ -10,6 +10,9 @@ class BadGuy {
   }
 }
 
+
+
+
 const badGuy1 = new BadGuy('Skeleton', 4, 20, 'HOORAH!');
 const badGuy2 = new BadGuy('Goblin', 5, 18, 'TAKE THIS!');
 const badGuy3 = new BadGuy('Robot', 1, 130, 'eliminating target...');
